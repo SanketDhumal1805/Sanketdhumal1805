@@ -2,12 +2,12 @@
 
 # Hi, I'm Sanket Dhumal 👋
 
-**Final-year Electronics & Telecommunication Engineering student**
+**Final-year M.tech Electronics & Telecommunication Engineering Student**
 Applied AI/ML for computer vision & real-world engineering systems
 
 [![Portfolio Repo](https://img.shields.io/badge/Featured-Citrus%20Disease%20Classifier-2d8c2d?style=flat-square&logo=github)](https://github.com/SanketDhumal1805/citrus-disease-classifier)
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-Connect-0A66C2?style=flat-square&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/YOUR-LINKEDIN-HANDLE)
-[![Email](https://img.shields.io/badge/Email-Contact-D14836?style=flat-square&logo=gmail&logoColor=white)](mailto:your.email@example.com)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-Connect-0A66C2?style=flat-square&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/sanket-dhumal-b41298276?utm_source=share_via&utm_content=profile&utm_medium=member_android))
+[![Email](https://img.shields.io/badge/Email-Contact-D14836?style=flat-square&logo=gmail&logoColor=white)](mailto:sanketdhumal220@gmail.com.com)
 
 </div>
 

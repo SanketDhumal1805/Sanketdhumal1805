@@ -5,9 +5,9 @@
 **Final-year M.tech Electronics & Telecommunication Engineering Student**
 Applied AI/ML for computer vision & real-world engineering systems
 
-[![Portfolio Repo](https://img.shields.io/badge/Featured-Citrus%20Disease%20Classifier-2d8c2d?style=flat-square&logo=github)](https://github.com/SanketDhumal1805/citrus-disease-classifier)
+[![Portfolio Repo](https://img.shields.io/badge/Featured-Citrus%20Disease%20Detector-2d8c2d?style=flat-square&logo=github)](https://github.com/SanketDhumal1805/citrus-disease-detector)
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-Connect-0A66C2?style=flat-square&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/sanket-dhumal-b41298276?utm_source=share_via&utm_content=profile&utm_medium=member_android))
-[![Email](https://img.shields.io/badge/Email-Contact-D14836?style=flat-square&logo=gmail&logoColor=white)](mailto:sanketdhumal220@gmail.com.com)
+[![Email](https://img.shields.io/badge/Email-Contact-D14836?style=flat-square&logo=gmail&logoColor=white)](mailto:sanketdhumal220@gmail.com)
 
 </div>
 
@@ -63,7 +63,7 @@ I care about being honest about what a model can and can't do — both of the pr
 <tr>
 <td width="50%" valign="top">
 
-**🍋 [Citrus Disease Classifier](https://github.com/SanketDhumal1805/citrus-disease-classifier)**
+**🍋 [Citrus Disease Detector](https://github.com/SanketDhumal1805/citrus-disease-detector)**
 
 RGB + Sentinel-2 NDVI fusion on a 4-channel ResNet50 to classify 9 citrus leaf conditions. Flask app with Grad-CAM explainability, live weather-based disease-risk alerts, and PDF reports in English/Hindi/Marathi.
 
